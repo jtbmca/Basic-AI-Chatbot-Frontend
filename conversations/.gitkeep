@@ -1,0 +1,6 @@
+# This file ensures the conversations directory is tracked by Git
+# while ignoring all other contents in this directory.
+# 
+# The conversations folder is needed for the application to store
+# user conversation data, but the actual conversation files should
+# not be committed to version control for privacy and security reasons.
